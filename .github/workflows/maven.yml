@@ -1,6 +1,6 @@
 name: Java CI
 
-on: [commit]
+on: [push]
 
 jobs:
   build:
